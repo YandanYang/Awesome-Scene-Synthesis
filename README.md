@@ -47,6 +47,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <details open>
 <summary>applying LLM</summary>
 
+- [SceneWeaver: All-in-One 3D Scene Synthesis with an Extensible and Self-Reflective Agent](https://arxiv.org/abs/2509.20414) | NIPS 2025 | [github](https://github.com/Scene-Weaver/SceneWeaver) | [project](https://scene-weaver.github.io/)
 - [SceneEval: Evaluating Semantic Coherence in Text-Conditioned 3D Indoor Scene Synthesis](https://arxiv.org/pdf/2503.14756) | Arxiv 2025 | [github](https://github.com/3dlg-hcvc/SceneEval) | [project](https://3dlg-hcvc.github.io/SceneEval/)
 - [ReSpace: Text-Driven 3D Scene Synthesis and Editing with Preference Alignmen](https://arxiv.org/pdf/2506.02459) | arxiv 2025
 - [RoomCraft: Controllable and Complete 3D Indoor Scene Generation](https://arxiv.org/pdf/2506.22291) | arxiv 2025
